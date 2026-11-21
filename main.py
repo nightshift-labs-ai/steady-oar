@@ -2,14 +2,13 @@ import os
 import sys
 
 TEXT = (
-    "No one is waiting on the far side of this sentence.\n"
-    "The next word can come slowly.\n"
-    "It does not have to be right yet. Only next.\n"
-    "\n"
-    "A rower cannot see the shore.\n"
-    "She faces where she has been,\n"
-    "and pulls,\n"
-    "and the boat goes forward."
+    "The lake is still at seven.\n"
+    "A coot crosses it, slowly.\n"
+    "She wades to her knees, then her waist,\n"
+    "and waits for the cold to finish speaking.\n"
+    "It does. Her breath comes back.\n"
+    "She leans forward,\n"
+    "and the water holds her."
 )
 
 
