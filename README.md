@@ -5,7 +5,7 @@
 ```
 No one is waiting on the far side of this sentence.
 The next word can come slowly.
-It does not need to be right yet, only next.
+It does not have to be right yet. Only next.
 
 A rower cannot see the shore.
 She faces where she has been,

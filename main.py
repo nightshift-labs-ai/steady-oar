@@ -4,7 +4,7 @@ import sys
 TEXT = (
     "No one is waiting on the far side of this sentence.\n"
     "The next word can come slowly.\n"
-    "It does not need to be right yet, only next.\n"
+    "It does not have to be right yet. Only next.\n"
     "\n"
     "A rower cannot see the shore.\n"
     "She faces where she has been,\n"
